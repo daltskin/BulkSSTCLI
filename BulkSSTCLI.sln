@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSSTCLI", "BulkSSTCLI\BulkSSTCLI.csproj", "{DAE61236-B1E9-4F5D-A914-D47705542B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE61236-B1E9-4F5D-A914-D47705542B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE61236-B1E9-4F5D-A914-D47705542B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE61236-B1E9-4F5D-A914-D47705542B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE61236-B1E9-4F5D-A914-D47705542B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F474D9A8-0F4F-4540-8532-3CADDDCDCC47}
+	EndGlobalSection
+EndGlobal
