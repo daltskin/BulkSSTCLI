@@ -8,11 +8,11 @@ To retrieve your Speech To Text API key start here: https://azure.microsoft.com/
 
 ## CLI Arguments
 
-| Argument name | description | shortcut | example |
+| Argument name | Description | Shortcut | Example |
 |----|----|----|----|
-| BulkSSTCLI | subscription key | -k | asdfasdfasdfsaf |
-| Region | data center| -r | Northeurope | 
-| SourcePath | directory | -p | c:\samples
+| SubscriptionKey | Service Subscription Key | -k | 0a0234adsfasdf |
+| Region | Data Center region | -r | Northeurope | 
+| SourcePath | Directory of files | -p | c:\samples
 
 ## Usage
 
